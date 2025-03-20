@@ -1,9 +1,7 @@
 import React from 'react'
 
-const Produtos = () => {
-  return (
-    <div>Produtos</div>
-  )
-}
-
-export default Produtos
+function NomeDoComponente() {
+    return <div>Conteúdo de {NomeDoComponente}</div>;
+  }
+  
+  export default NomeDoComponente;

@@ -1,9 +1,7 @@
 import React from 'react'
 
-const Sobre = () => {
-  return (
-    <div>Sobre</div>
-  )
-}
-
-export default Sobre
+function NomeDoComponente() {
+    return <div>Conteúdo de {NomeDoComponente}</div>;
+  }
+  
+  export default NomeDoComponente;
