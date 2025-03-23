@@ -1,4 +1,4 @@
-Deploy: https://projeto1.vercel.app
+Deploy: https://webdevcp42025-g2up5auch-leonardo-fernandes-mesquitas-projects.vercel.app
 
 Equipe: 
 Leonardo Fernandes Mesquita, RM:559623
